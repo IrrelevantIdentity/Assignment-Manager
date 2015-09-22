@@ -18,7 +18,9 @@
 * Assignment due date
 
 * Class name
+* Class teacher(s)
+* Class subject
 
 
 ### Relationships
-*
+* Assignments belong to classes
