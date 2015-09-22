@@ -5,3 +5,12 @@
 * Describe requirements for assignments
 * Specify which class assignments pertain to
 * Specify assignment durations types; typical amount of time forecasted for completion. (Short, Medium, or Long)
+
+### Entities
+*
+
+### Atributes
+*
+
+### Relationships
+*
