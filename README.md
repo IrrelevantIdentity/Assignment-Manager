@@ -7,14 +7,18 @@
 * Specify assignment durations types; typical amount of time forecasted for completion. (Short, Medium, or Long)
 
 ### Entities
+
 #### Assignments
+
 ##### Atributes
 * Assignment name
 * Assignment requirements
 * Assignment date assigned
 * Assignment teacher(s)
 * Assignment due date
+
 #### Classes
+
 ##### Atributes
 * Class name
 * Class teacher(s)
