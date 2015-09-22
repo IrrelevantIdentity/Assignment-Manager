@@ -5,4 +5,4 @@
 * Describe requirements for assignments
 * Specify which subject assignments pertain to
 * Change status of assignments (Uncommenced, In Progress, Complete, Handed-in)
-* Specify assignment durations types: (Short, Medium, or Long)
+* Specify assignment durations types; typical ammount of time forecasted for completion. (Short, Medium, or Long)
