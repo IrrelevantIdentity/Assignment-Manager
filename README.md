@@ -11,20 +11,20 @@
 #### Assignments
 
 ##### Atributes
-* Assignment name [Text]
+* Assignment name [String]
 * Assignment requirements [Memo]
 * Assignment date assigned [Date]
-* Assignment teacher(s)(Derived from "Class Teacher(s)") [Text]
+* Assignment teacher(s)(Derived from "Class Teacher(s)") [String]
 * Assignment due date [Date]
 * Assignment duration type [Enumeration]
 
 #### Classes
 
 ##### Atributes
-* Class name [Text]
-* Class teacher(s) [Text]
-* Class subject [Text]{for now}
-
+* Class name [String]
+* Class teacher(s) [String]
+* Class subject [String]{for now}
+* Class schedule [String]
 
 
 #### Relationships
