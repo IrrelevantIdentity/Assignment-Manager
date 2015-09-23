@@ -28,4 +28,5 @@
 
 
 #### Relationships
-* Assignments belong to classes
+* Assignments belong to classes (1)
+* Classes have assignments (many)
