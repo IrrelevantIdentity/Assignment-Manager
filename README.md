@@ -14,7 +14,7 @@
 * Assignment name
 * Assignment requirements
 * Assignment date assigned
-* Assignment teacher(s)
+* Assignment teacher(s)(Derived from "Class Teacher(s)")
 * Assignment due date
 
 #### Classes
