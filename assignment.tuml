@@ -1,5 +1,41 @@
 package assignment;
 
-    /* Add your own classes here */
+/* Add your own classes here */
+class Assignment
+
+    attribute assignmentTitle : String;
+
+    attribute description : String;
+
+    attribute assignmentClass : Class;
+
+    attribute dueDate : Date;
+
+    attribute duration : DurationType;
+end;
+
+class Class
+
+    attribute className : String;
+
+    attribute assignments : Assignment[*];
+end;
+
+association EmployeeExpenses
+
+    role Assignment.assignmentClass;
+
+    role Class.assignments;
+
+end;
+
+enumeration DurationType
+
+    Short;
+    
+    Medium;
+    
+    Long;
+end;
 
 end.

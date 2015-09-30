@@ -1,0 +1,14 @@
+{
+  "assignment" : {
+    "Class" : [ {
+      "className" : "Math 314"
+    } ],
+    "Assignment" : [ {
+      "assignmentTitle" : "Logarithms",
+      "description" : "15 exercises",
+      "dueDate" : "2015/10/07",
+      "duration" : "Medium",
+      "assignmentClass" : "Class@1"
+    } ]
+  }
+}
